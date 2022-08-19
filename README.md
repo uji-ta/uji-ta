@@ -1,6 +1,8 @@
 ### Hello, My Name is ujita 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uji-ta)](https://github.com/uji-ta)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ujita&show_icons=true&theme=vue-dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uji-ta&theme=vue-dark&layout=compact)
 
 <!--
 **uji-ta/uji-ta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
