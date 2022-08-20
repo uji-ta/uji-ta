@@ -15,17 +15,17 @@
   </a>
 </p>
 
-<p>
-  <img align="left" height="170px" src="https://github-profile-trophy.vercel.app/?username=uji-ta&theme=onedark"/>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=uji-ta&theme=onedark)
+
+![github-profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uji-ta&theme=2077)
 
 <p>
-  <img align="left" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uji-ta&theme=2077"/>
-</p>
-
-<p>
+<a href="https://github.com/uji-ta">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=uji-ta&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" />
+</a>
+<a href="https://github.com/uji-ta">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uji-ta&layout=compact&theme=vue-dark&hide_border=true" />
+</a>
 </p>
 
 
