@@ -15,9 +15,9 @@
   </a>
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=uji-ta)
+![trophy](https://github-profile-trophy.vercel.app/?username=uji-ta&theme=onedark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uji-ta&show_icons=true&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=uji-ta&count_private=true&show_icons=true&theme=vue-dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uji-ta&theme=vue-dark&layout=compact)
 
