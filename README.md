@@ -11,6 +11,6 @@
     <img height="20" src="https://img.shields.io/github/followers/uji-ta?label=follow&logo=github&style=flat" />
   </a>
   <a href="http://qiita.com/uji-ta">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/uji-ta/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ujita/posts.svg" />
   </a>
 </p>
